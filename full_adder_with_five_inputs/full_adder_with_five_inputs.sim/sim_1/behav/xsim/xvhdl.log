@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Apple/Desktop/FPGA_AP/full_adder_with_five_inputs/full_adder_with_five_inputs.srcs/sources_1/new/FA_1bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'FA_1bit'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Apple/Desktop/FPGA_AP/full_adder_with_five_inputs/full_adder_with_five_inputs.srcs/sources_1/new/top.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'top'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Apple/Desktop/FPGA_AP/full_adder_with_five_inputs/full_adder_with_five_inputs.srcs/sim_1/new/tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb'
